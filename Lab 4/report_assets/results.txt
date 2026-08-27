@@ -1,0 +1,26 @@
+CS3807 - Experiment 4
+Synthetic/Demo Results
+==================================================
+
+Training Accuracy: 93.84%
+Validation Accuracy: 89.72%
+Testing Accuracy: 89.41%
+Precision: 89.67%
+Recall: 89.41%
+F1-score: 89.45%
+Total Parameters: 25,636,712
+Training Time: 47.3 minutes
+
+Fine-Tuning Results
+--------------------------------------------------
+Before Fine-Tuning Accuracy: 87.26%
+After Fine-Tuning Accuracy: 89.41%
+Before Fine-Tuning Precision: 87.48%
+After Fine-Tuning Precision: 89.67%
+Before Fine-Tuning Recall: 87.26%
+After Fine-Tuning Recall: 89.41%
+Before Fine-Tuning F1: 87.18%
+After Fine-Tuning F1: 89.45%
+
+NOTE:
+These are synthetic/demo values and should be replaced with actual experimental measurements before final submission.
